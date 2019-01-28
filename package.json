@@ -2,8 +2,7 @@
   "name": "jajouka79-date-picker",
   "version": "1.0.8",
   "dependencies": {
-    "jquery": "*",
-    "moment": "*"
+
   },
   "main": "js/datepicker.js",
   "repository": {
